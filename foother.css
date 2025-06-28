@@ -1,0 +1,287 @@
+*{
+ margin: 0;
+}
+.container{
+ max-width: 1200px;
+ margin: auto;
+}
+header{
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ padding: 10px;
+}
+.one{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ width: 90%;
+ gap: 50px;
+}
+.p_1{
+ margin-top: 20px;
+ padding-bottom: 20px;
+ display: flex;
+ flex-direction: column;
+ gap: 50px;
+ width: 400px;
+ font-style: 18px;
+ line-height: 28px;
+}
+.btn_header{
+ padding: 16px 32px;
+ width: 135px;
+ background-color: #E9672B;
+ border-radius: 30px;
+ border: none;
+}
+.img{
+ width: 628px;
+ height: 500px;
+}
+.two{
+ display: flex;
+ align-items: center;
+ gap: 30px;
+}
+.txt1{
+ padding-top: 20px;
+ padding: 20px;
+ text-align: center;
+}
+.png{
+display: flex;
+justify-content: space-around;
+}
+.png1{
+margin-top:  50px;
+padding: 20px;
+padding-bottom: 50px;
+}
+png1 h4{
+ background-color: white;
+ padding: 10px;
+ padding: 10px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+.png1 img{
+ width: 244px;
+ height: 193px;
+}
+.png2{
+margin-top:  50px;
+padding: 20px;
+padding-bottom: 50px;
+}
+.png2 h4{
+ background-color: white;
+ padding: 10px;
+ padding: 10px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+.png2 img{
+ width: 244px;
+ height: 193px;
+}
+.png3{
+margin-top:  50px;
+padding: 20px;
+padding-bottom: 50px;
+}
+.png3 h4{
+ background-color: white;
+ padding: 10px;
+ padding: 10px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+.png3 img{
+ width: 244px;
+ height: 193px;
+}
+.png4{
+margin-top:  50px;
+padding: 20px;
+padding-bottom: 50px;
+}
+.png4 h4{
+ background-color: white;
+ padding: 10px;
+ padding: 10px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+.png4 img{
+ width: 244px;
+ height: 193px;
+}
+.text2{
+ width: 100%;
+ height: 50vh;
+}
+.text2 h4 p{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+}
+.text2 h4{
+ text-align: center;
+ padding: 10px;
+}
+.text2 p{
+ padding-left: 100px;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items:center;
+text-align: center;
+width: 892px;
+font-size: 24px;
+line-height: 32px;
+}
+.two2{
+  display: flex;
+ align-items: center;
+ gap: 30px;
+ margin-bottom: 50px;
+}
+span{
+ padding-right: 300px;
+ color: #E9672B;
+}
+.img_two{
+ width: 616px;
+ height: 411px;
+}
+.asid{
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+gap: 20px;
+padding-bottom: 50px;
+}
+.asid h1{
+ width: 400px;
+ font-size: 36px;
+ line-height: 44px;
+ padding: 10px;
+}
+.p_2{
+ width: 350px;
+ font-size: 18px;
+ line-height: 28px;
+}
+.taraf{
+  display: flex;
+  margin: 50px 0px;
+  justify-content: space-around;
+  align-items: center;
+}
+.raight{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+.propan3{
+  display: flex;
+  justify-content: space-around; 
+ align-items: center;
+ margin-top: 60px;
+}
+.img_one img{
+  width: 616px;
+  height: 411px;
+}
+.left_x{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.furniture{
+  width: 300px;
+  font-size: 30px;
+}
+.left_img img{
+  width: 616px;
+  height: 616px;
+}
+.shop{
+  text-align: center;
+  /* border: 1px solid black; */
+}
+.char img{
+  display: flex;
+  justify-content: center;
+width: 189px;
+height: 189px;
+}
+.gl{
+  color: blueviolet;
+}
+
+.char{
+  /* border: 1px solid black; */
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+}
+.p_span{
+  /* border: 1px solid black; */
+  /* display: flex; */
+  /* flex-direction: column; */
+  text-align: center;
+
+
+}
+.koleksia{
+  display: flex;
+justify-content: space-around;
+padding: 10px;
+}
+.rent{
+  /* border: 1px solid black; */
+}
+.shikaf img{
+  display: flex;
+  justify-content: center;
+width: 189px;
+height: 189px;
+}
+.shikaf{
+  /* border: 1px solid black; */
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+}
+.kreslo img{
+  display: flex;
+  justify-content: center;
+width: 189px;
+height: 189px;
+}
+.kreslo{
+  /* border: 1px solid black; */
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+}
+.divantwo img{
+  /* display: flex; */
+  /* justify-content: center; */
+width: 189px;
+height: 189px;
+}
+.divantwo{
+  /* border: 1px solid black; */
+  width: 200px;
+  /* display: flex; */
+  /* flex-direction: column; */
+}
